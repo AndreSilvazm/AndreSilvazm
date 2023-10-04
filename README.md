@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wendley :D 
+### Olá! Eu sou o André :D 
 
 <div align="center">
   <a href="https://github.com/wendleyzago">
