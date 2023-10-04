@@ -1,9 +1,9 @@
 ### Olá! Eu sou o André :D 
 
 <div align="center">
-  <a href="https://github.com/wendleyzago">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wendleyzago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendleyzago&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/AndreSilvazm">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreSilvazm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSilvazm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
